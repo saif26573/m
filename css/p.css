@@ -1,0 +1,491 @@
+/*
+Author Name
+Autohr Info Here
+*/
+
+/* ======Index=======
+
+1.Home
+2.About
+3.Our Work
+4.Contact
+5.
+=====================
+*/
+
+
+/* Global CSS */
+
+body {
+	font-family: 'Roboto Slab', serif;
+
+}
+
+.no-padding {
+	padding:0px;
+}
+
+.img-center {
+	display: block;
+	margin: 0 auto;
+}
+ {
+	font-size: 15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header {
+    height: 42px;
+    border-bottom: 1.5px solid #e7e7e7;
+}
+.v {
+    margin-top: 5px;
+    height: 38px;
+}
+.vu {
+    padding: -1px;
+    border-right: 2px solid #e7e7e7;
+    height: 40px;
+    padding-top: 3px;
+    padding-left: 65px;
+}
+.vu p{
+	margin-bottom: -10px;
+}
+
+i.fa.fa-mobile {
+    font-size: 21px;
+    margin-right: 4px;
+    margin-top: 3px;
+}
+
+.qwq {
+    color: white;
+    background: #1287bf;
+    margin-top: 2px;
+    margin-left: -54px;
+    padding: 10px 17px;
+}
+.col-md-8.o {
+    padding: 7px 0;
+}
+
+.t{
+	margin-top: 10px;
+}
+
+.r img {
+    padding: 36px 0;
+}
+
+i.fa.fa-circle {
+    font-size: 7px;
+    margin-left: 20px;
+}
+
+.btl {
+    color: white;
+    padding: 11px 40px 11px 20px;
+    background: red;
+    border: none;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+.o ul {
+    list-style: none;
+    margin: 31px 0;
+}
+.o ul li{
+	margin: 0 10px;
+	display:inline;
+	text-decoration: none;
+	color: black;
+	}
+
+.o ul li a{
+	color: black;
+}
+
+.gg {
+    background: url(../img/0.png);
+    background-size: cover;
+    margin-top: -3px;
+    text-align:center;
+    background-repeat: no-repeat;
+}
+
+.gg h2 {
+    color: white;
+    font-size: 45px;
+    margin: 230px 0 17px;
+}
+
+.gg h6 {
+    font-size: 30px;
+    color: white;
+}
+
+.btlp {
+    color: white;
+    padding: 15px 70px;
+    background: #f8cd53;
+    border: none;
+    margin: 20px 0 327px 0;
+    font-size: 24px;
+    margin-right: 67px;
+    border-radius: 10px;
+}
+
+.col-md-6.offset-md-3.nnm {
+    text-align: center;
+    /* margin-top: 0px; */
+    margin-bottom: 60px; 
+}
+
+.underline {
+    width: 62px;
+    color: black;
+    margin: 0 auto;
+    border-bottom: 4px solid #000;
+    margin-top: 12px;
+    display: block;
+}
+
+.hero{
+	margin-bottom: 110px;
+}
+
+.hero img {
+    margin-left: 136px;
+    margin-bottom: 7px;
+}
+
+
+.hero p{
+	text-align: center;
+}
+
+.hero h2{
+	text-align: center;
+}
+
+.fa.fa-comments-o{
+	 font-size: 86px;
+    margin-left: 130px;
+    color: #688fca;
+}
+
+i.fa.fa-thumbs-up {
+    font-size: 86px;
+    margin-left: 136px;
+    color: #688fca;
+}
+
+.yt {
+    background-color: #f3f3f3;
+    padding: 110px 0 0px 0;
+    margin-bottom: 0px;
+}
+
+.yt h1{
+	text-align: center;
+}
+
+.b{
+	background-color: white;
+}
+
+.b p{
+	font-size: 16px;
+}
+
+.wwe{
+	margin-bottom: 30px;
+}
+
+.yuy{
+	position: relative;
+}
+
+.t{
+	background-color: white;
+	margin-bottom: 30px;
+}
+.col-md-8.t.no-padding {
+  	padding-top: 70px;
+    padding-left: 50px;
+}
+.spen p{
+	padding: 0px;
+}
+
+.t img
+{
+	margin-top: -3px;
+}
+
+.stp {
+    position: absolute;
+    background: red;
+    padding: 1px 26px;
+    color: white;
+    top: 34%;
+    right: 1%;
+    border: 1px solid white;
+}
+.uuu {
+    margin-left: 542px;
+    margin-top: 66px;
+}
+
+.rrs {
+    padding-left: 201px;
+}
+.re{
+
+}
+
+.er{
+
+}
+.text img{
+	padding-left: 41px;
+
+}
+
+.text{
+	position: relative;
+	background-color: white;
+	margin-bottom: 30px;
+}
+
+.st {
+    position: absolute;
+    background: red;
+    padding: 1px 29px;
+    color: white;
+    top: 28%;
+    left: 0%;
+    border: 1px solid white;
+}
+
+.ioi {
+    margin-right: 135px;
+}
+
+.ytr {
+    background-color: red;
+    padding: 110px 0 100px 0;
+    color: white;
+
+}
+
+.ytr h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.un {
+    width: 62px;
+    margin: 0 auto;
+    border-bottom: 4px solid #fff;
+    margin-top: 12px;
+    display: block;
+}
+
+.ytr h6 {
+    font-size: 21px;
+}
+
+.col{
+	background: #f35e59;
+	padding-bottom: 50px;
+}
+
+.col h3 {
+    padding-left: 64px;
+    font-size: 30px;
+}
+
+.col p {
+    padding-left: 72px;
+    font-size: 17px;
+}
+.v{
+	width: 100px;
+
+}
+
+.nb {
+    width: 284px;
+    margin-left: -15px;
+}
+
+.vc {
+    margin-top: -7px;
+    width: 288px;
+    margin-left: -17px;
+}
+
+.opop {
+    margin-top: -3px;
+    width: 288px;
+    margin-left: -17px;
+}
+
+.col-md-12 {
+    margin-bottom: -7px;
+}
+
+
+
+i.fa.fa-paper-plane {
+    margin-top: 96px;
+    padding-left: 116px;
+    font-size: 52px;
+}
+
+.tttt{
+	text-align: center;
+	color: white;
+	background: #1287bf;
+	padding: 100px 0;
+}
+
+.tttt p {
+    font-size: 22px;
+}
+
+.col-md-6.offset-md-3.seb {
+    background: white;
+    display: grid;
+
+}
+ .form {
+    padding: 31px 0;
+    margin-right: 10px;
+}
+
+.iui {
+    color: black;
+    font-size: 13px;
+    padding-top: 40px;
+    margin-right: 31px;
+    padding-bottom: 13px;
+   padding-bottom: 13px;
+}
+.ty {
+    padding: 10px 190px 10px 25px;
+    margin-top: 12px;
+    margin-right: 44px;
+}
+input.button {
+    margin-left: 181px;
+    display: block;
+    margin: 40px 183px;
+    padding: 10px 20px;
+    font-size: 17px;
+    color: #fff;
+    background: red;
+    border: 1px;
+    border-radius: 3px;
+}
+
+
+i.fa.fa-angle-down {
+    font-size: 35px;
+    border: 3px solid white;
+    border-radius: 194px;
+    padding: 11px 18px;
+    margin-bottom: 60px;
+}
+   i.fa.fa-caret-up.fa-5x {
+    position: absolute;
+    bottom: 93%;
+    right: 45%;
+}
+
+i.fa.fa-times-circle {
+    position: absolute;
+    color: red;
+    right: -24px;
+    bottom: 93%;
+    font-size: 55px;
+}
+
+.jkj{
+	background: #2a2a2a;
+}
+.et{
+	margin: 0 auto;
+	color: white;
+}
+
+.et h2 {
+    padding-left: 33%;
+    margin-top: 100px;
+}
+
+.et h4 {
+    font-size: 18px;
+    margin: 20px 0 20px 39px;
+}
+
+.lkl{
+	margin-left: 50px;
+}
+
+i.fa.fa-facebook.bb {
+    margin-left: 120px;
+}
+
+.tyo {
+    padding: 10px 355px 10px 30px;
+    background: ;
+    background: #515151;
+    border: none;
+    margin-left: -19px;
+}
+
+.bb {
+    background: rgba(0,0,0,.075);
+    margin-left: 16px;
+    border: 1px solid;
+    margin-top: 17px;
+    padding: 13px 17px;
+}
+
+input.but{
+    margin-left: 181px;
+    display: block;
+    margin: 40px 183px;
+    padding: 10px 20px;
+    font-size: 17px;
+    color: #fff;
+    background: transparent;
+    border-radius: 5px;
+}
+
+.ccc{
+	 background: #515151;
+}
+
+.ccc h5 {
+    padding: 10px 0 10px 810px;
+    color: white;
+    font-size: 15px;
+}
